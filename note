@@ -1,0 +1,1 @@
+Như vậy chỉ khi khởi tạo một đối tượng String dùng cú pháp "" thì đối tượng được đó mới được tạo trong String pool.
